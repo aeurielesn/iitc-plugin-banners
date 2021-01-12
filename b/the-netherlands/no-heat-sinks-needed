@@ -1,0 +1,50 @@
+{
+  "name": "No Heat Sinks Needed",
+  "authors": {
+    "mediadeo": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "70e87e92a3284660abac021f8d497b2c.1c",
+      "title": "No Heat Sinks Needed - Purple Mission",
+      "image": "https://lh3.googleusercontent.com/sC3QCH4ATcNj9f_G4WVSLmm2S_2UH2yO80MWOWKCHBjJSLwDIg0WDbXKFHZMNqWeUQ4OcJDDSvfnku5D_RqP",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "12c986fb7d3c4de8a54a801fdc54e2f4.1c",
+      "title": "No Heat Sinks Needed - Blue Mission",
+      "image": "https://lh3.googleusercontent.com/8aIi5PhEsRZt5Ck3uRGuo8ykuOCRCWX82XvCMzfteg7A09CcHKHcEk0-TLrGRosellmFfTntRl7LkJj6ltf0",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "b885df3eddad4e05871634fa3251da86.1c",
+      "title": "No Heat Sinks Needed - Green Mission",
+      "image": "https://lh3.googleusercontent.com/HxXq03erkm4nnJbhaj8AnjvzFiGrvJddr0aeWv2Jq30SqBwNTLz168YPjBR8HeN55ZZh74Kf2fD1Jq7nSB-gUA",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "d609f5e87cbf4d3d819b64c9a527a8f4.1c",
+      "title": "No Heat Sinks Needed - Yellow Mission",
+      "image": "https://lh3.googleusercontent.com/Rhk5SerRTU5Bs5GeHT-66dMivluvP-DfcQ36tDMKAfjjkcn2FnKjiyikpHY7LrnvNy99ebTkHvNri7Njt00",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "70ef699069e341d39cbb49ec917295a8.1c",
+      "title": "No Heat Sinks Needed - Orange Mission",
+      "image"https://lh3.googleusercontent.com/UF7kBxNLwcvhmNLIqzHU2mXuufX-gv-pYtg0RZFk5S6jZZ9ANf9nx0vtfC9TA_JLySt9G0z72ZSr5w-tYwom",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "70ef699069e341d39cbb49ec917295a8.1c",
+      "title": "No Heat Sinks Needed - Red Mission",
+      "image": "https://lh3.googleusercontent.com/GXZZF5QoT6voUJmJvQ0oNzVyK_ZEH6C-We17RR7nfs3A11BsXddpQcmYakigM6GPAPcuGb2glW5dHBMbcK0",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+  ]
+}
